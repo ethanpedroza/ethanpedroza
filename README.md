@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ethanpedroza
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Python / Data Science 
 - 🌱 I’m currently learning through Udemy (Angela Yu)
 - 📫 How to reach me: ethansanchez411@gmail.com
 

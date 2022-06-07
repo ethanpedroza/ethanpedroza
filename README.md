@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanpedroza
-- 👀 I’m interested in Python / Data Science 
-- 🌱 I’m currently learning through Udemy (Angela Yu)
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning through OSSU / Udemy
 - 📫 How to reach me: ethansanchez411@gmail.com
 
 <!---

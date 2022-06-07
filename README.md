@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ethanpedroza
-- 👀 I’m interested in Computer Science
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning through OSSU / Udemy
 - 📫 How to reach me: ethansanchez411@gmail.com
 

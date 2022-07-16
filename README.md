@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanpedroza
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning through OSSU / Udemy
+- 👀 I’m interested in Data Science / Comp Sci
+- 🌱 I’m currently learning through DataQuest / OSSU / Udemy
 - 📫 How to reach me: ethansanchez411@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanpedroza
 - 👀 I’m interested in Data Science / Comp Sci
-- 🌱 I’m currently learning through DataQuest / OSSU / Udemy
+- 🌱 I’m currently learning through FreeCodeCamp / DataQuest / OSSU
 - 📫 How to reach me: ethansanchez411@gmail.com
 
 <!---

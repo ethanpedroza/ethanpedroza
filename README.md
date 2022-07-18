@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanpedroza
-- 👀 I’m interested in Data Science / Comp Sci
-- 🌱 I’m currently learning through FreeCodeCamp / DataQuest / OSSU
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning through The Odin Project
 - 📫 How to reach me: ethansanchez411@gmail.com
 
 <!---
